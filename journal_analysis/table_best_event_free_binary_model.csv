@@ -1,0 +1,2 @@
+setting,task,model,accuracy,macro_f1,balanced_accuracy,risk_precision,risk_recall,roc_auc,pr_auc
+event_free_early,binary_risk,ExtraTrees_binary_risk,0.8797061524334252,0.8452260706826873,0.8383838383838385,0.7985611510791367,0.7474747474747475,0.9390920994456348,0.874172996188899
