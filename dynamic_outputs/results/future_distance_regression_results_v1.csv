@@ -1,0 +1,10 @@
+setting,task,prediction_horizon_s,model,mae_m,rmse_m,r2,n_train,n_test
+event_free_future_distance,future_distance_regression,1,ExtraTreesRegressor,0.27616202242719673,0.5784937714821048,0.9938358028754027,2190,1089
+event_free_future_distance,future_distance_regression,1,RandomForestRegressor,0.26565664383665116,0.5631865203281692,0.9941577027858944,2190,1089
+event_free_future_distance,future_distance_regression,1,MLPRegressor,0.304800431942664,0.4637013737701143,0.9960394462745407,2190,1089
+event_free_future_distance,future_distance_regression,3,ExtraTreesRegressor,0.4206984553844504,0.7202002226745732,0.9905174061462678,2190,1089
+event_free_future_distance,future_distance_regression,3,RandomForestRegressor,0.4112047231592163,0.7297181424895913,0.9902651125428279,2190,1089
+event_free_future_distance,future_distance_regression,3,MLPRegressor,0.410652883743096,0.6496199820864196,0.992284938407499,2190,1089
+event_free_future_distance,future_distance_regression,5,ExtraTreesRegressor,0.5646321644997714,0.865944805992996,0.9863707086447778,2190,1089
+event_free_future_distance,future_distance_regression,5,RandomForestRegressor,0.5779265053869475,0.9437901004213914,0.9838101178426449,2190,1089
+event_free_future_distance,future_distance_regression,5,MLPRegressor,0.5656651672582297,0.826926678891542,0.9875712669629797,2190,1089

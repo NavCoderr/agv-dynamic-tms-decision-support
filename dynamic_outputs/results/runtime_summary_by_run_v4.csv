@@ -1,0 +1,4 @@
+run_id,rows_1hz,duration_s,min_distance_m,mean_distance_m,close_events_lt_0_30m,very_close_events_lt_0_10m,same_physical_edge_events,opposite_edge_events,planned_available_rows,operator_events,urgent_control_events,virtual_scanner_events
+dataset1,1344,1343,0.008039044525576808,9.312873165923193,31,15,97,61,383,91,0,0
+dataset2,846,845,0.012979368555867628,8.524974219446516,117,51,137,132,202,46,32,77
+dataset3,1089,1088,0.05238950167283933,9.202914696039008,14,4,159,124,326,66,38,66
