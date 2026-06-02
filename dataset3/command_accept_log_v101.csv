@@ -1,0 +1,51 @@
+local_time,command,dest,attempt,write_ok,accepted,going_to_id,target_reached,speed,dest_dtype,trigger_dtype,trigger_hold_s,label
+2026-05-19 15:36:40,SEND_DEST,5,1,True,True,5,0,0.28205612301826477,uint32,uint32,1.0,V99_series_idx0
+2026-05-19 15:36:47,SEND_DEST,5,1,True,True,5,0,0.1757001280784607,uint32,uint32,1.0,V99_series_auto_resend1_idx0
+2026-05-19 15:37:03,SEND_DEST,4,1,True,True,4,0,-0.23781201243400574,uint32,uint32,1.0,V99_series_idx1
+2026-05-19 15:37:10,SEND_DEST,4,1,True,True,4,0,-0.13145601749420166,uint32,uint32,1.0,V99_series_auto_resend1_idx1
+2026-05-19 15:39:00,SEND_DEST,4,1,True,True,4,0,-0.29737135767936707,uint32,uint32,1.0,V99_series_resend_idx1
+2026-05-19 15:39:18,SEND_DEST,3,1,True,True,3,0,0.2544035315513611,uint32,uint32,1.0,V99_series_idx2
+2026-05-19 15:39:24,SEND_DEST,3,1,True,True,3,0,0.10040005296468735,uint32,uint32,1.0,V99_series_auto_resend1_idx2
+2026-05-19 15:39:40,SEND_DEST,2,1,True,True,2,0,-0.26631543040275574,uint32,uint32,1.0,V99_series_idx3
+2026-05-19 15:39:46,SEND_DEST,2,1,True,True,2,0,-0.29822221398353577,uint32,uint32,1.0,V99_series_auto_resend1_idx3
+2026-05-19 15:40:07,SEND_DEST,1,1,True,True,1,1,0.0,uint32,uint32,1.0,V99_series_idx4
+2026-05-19 15:40:14,SEND_DEST,1,1,True,True,1,0,0.21015945076942444,uint32,uint32,1.0,V99_series_auto_resend1_idx4
+2026-05-19 15:40:48,SEND_DEST,6,1,True,True,6,0,0.09912378340959549,uint32,uint32,1.0,V99_series_idx5
+2026-05-19 15:40:55,SEND_DEST,6,1,True,True,6,0,-0.19058994948863983,uint32,uint32,1.0,V99_series_auto_resend1_idx5
+2026-05-19 15:41:29,SEND_DEST,6,1,True,True,6,0,0.0,uint32,uint32,1.0,V141 instant resume original goal after operator clear
+2026-05-19 15:41:33,SEND_DEST,6,1,True,True,6,0,-0.29737135767936707,uint32,uint32,1.0,V141 instant resume second pulse after operator clear
+2026-05-19 15:42:01,SEND_DEST,6,1,True,True,6,0,0.0,uint32,uint32,1.0,V141 instant resume original goal after operator clear
+2026-05-19 15:42:05,SEND_DEST,6,1,True,True,6,0,-0.29652053117752075,uint32,uint32,1.0,V141 instant resume second pulse after operator clear
+2026-05-19 15:43:14,SEND_DEST,6,1,True,True,6,0,-0.2986476421356201,uint32,uint32,1.0,V99_series_resend_idx5
+2026-05-19 15:43:41,SEND_DEST,5,1,True,True,5,0,0.18548484146595,uint32,uint32,1.0,V99_series_idx0
+2026-05-19 15:44:04,SEND_DEST,4,1,True,True,4,0,-0.21739165484905243,uint32,uint32,1.0,V99_series_idx1
+2026-05-19 15:44:10,SEND_DEST,4,1,True,True,4,0,-0.10593057423830032,uint32,uint32,1.0,V99_series_auto_resend1_idx1
+2026-05-19 15:44:59,SEND_DEST,4,1,True,True,4,0,0.0,uint32,uint32,1.0,V141 instant resume original goal after operator clear
+2026-05-19 15:45:03,SEND_DEST,4,1,True,True,4,0,-0.29141542315483093,uint32,uint32,1.0,V141 instant resume second pulse after operator clear
+2026-05-19 15:45:29,SEND_DEST,4,1,True,True,4,0,0.0,uint32,uint32,1.0,V141 instant resume original goal after operator clear
+2026-05-19 15:45:33,SEND_DEST,4,1,True,True,4,0,-0.29566967487335205,uint32,uint32,1.0,V141 instant resume second pulse after operator clear
+2026-05-19 15:45:50,SEND_DEST,3,1,True,True,3,0,0.29566967487335205,uint32,uint32,1.0,V99_series_idx2
+2026-05-19 15:46:11,SEND_DEST,2,1,True,True,2,0,-0.11784245073795319,uint32,uint32,1.0,V99_series_idx3
+2026-05-19 15:46:17,SEND_DEST,2,1,True,True,2,0,-0.29737135767936707,uint32,uint32,1.0,V99_series_auto_resend1_idx3
+2026-05-19 15:46:39,SEND_DEST,1,1,True,True,1,1,0.0,uint32,uint32,1.0,V99_series_idx4
+2026-05-19 15:46:45,SEND_DEST,1,1,True,True,1,0,0.1642136573791504,uint32,uint32,1.0,V99_series_auto_resend1_idx4
+2026-05-19 15:46:51,SEND_DEST,1,1,True,True,1,0,0.29737135767936707,uint32,uint32,1.0,V99_series_auto_resend2_idx4
+2026-05-19 15:47:22,SEND_DEST,6,1,True,True,6,0,0.09954921156167984,uint32,uint32,1.0,V99_series_idx5
+2026-05-19 15:47:29,SEND_DEST,6,1,True,True,6,0,-0.1659153550863266,uint32,uint32,1.0,V99_series_auto_resend1_idx5
+2026-05-19 15:47:35,SEND_DEST,6,1,True,True,6,0,-0.29907307028770447,uint32,uint32,1.0,V99_series_auto_resend2_idx5
+2026-05-19 15:49:12,SEND_DEST,5,1,True,True,5,0,0.28120526671409607,uint32,uint32,1.0,V99_series_idx0
+2026-05-19 15:49:17,SEND_DEST,5,1,True,True,5,0,0.1293288916349411,uint32,uint32,1.0,V99_series_auto_resend1_idx0
+2026-05-19 15:49:34,SEND_DEST,4,1,True,True,4,0,-0.26886796951293945,uint32,uint32,1.0,V99_series_idx1
+2026-05-19 15:49:40,SEND_DEST,4,1,True,True,4,0,-0.10763225704431534,uint32,uint32,1.0,V99_series_auto_resend1_idx1
+2026-05-19 15:50:26,SEND_DEST,4,1,True,True,4,0,0.0,uint32,uint32,1.0,V141 instant resume original goal after operator clear
+2026-05-19 15:50:30,SEND_DEST,4,1,True,True,4,0,-0.2986476421356201,uint32,uint32,1.0,V141 instant resume second pulse after operator clear
+2026-05-19 15:50:59,SEND_DEST,4,1,True,True,4,0,0.0,uint32,uint32,1.0,V141 instant resume original goal after operator clear
+2026-05-19 15:51:03,SEND_DEST,4,1,True,True,4,0,-0.29907307028770447,uint32,uint32,1.0,V141 instant resume second pulse after operator clear
+2026-05-19 15:51:21,SEND_DEST,3,1,True,True,3,0,0.27865272760391235,uint32,uint32,1.0,V99_series_idx2
+2026-05-19 15:51:44,SEND_DEST,2,1,True,True,2,0,-0.1820814609527588,uint32,uint32,1.0,V99_series_idx3
+2026-05-19 15:51:50,SEND_DEST,2,1,True,True,2,0,-0.2977967858314514,uint32,uint32,1.0,V99_series_auto_resend1_idx3
+2026-05-19 15:52:27,SEND_DEST,2,1,True,False,,,0.0,uint32,uint32,1.0,V99_series_auto_resend2_idx3
+2026-05-19 15:52:30,SEND_DEST,2,2,True,False,,,0.0,uint32,uint32,1.0,V99_series_auto_resend2_idx3
+2026-05-19 15:52:33,SEND_DEST,2,3,True,False,,,0.0,uint32,uint32,1.0,V99_series_auto_resend2_idx3
+2026-05-19 15:52:39,SEND_DEST,2,1,True,False,,,0.0,uint32,uint32,1.0,V99_series_auto_resend3_idx3
+2026-05-19 15:52:42,SEND_DEST,2,2,True,False,,,0.0,uint32,uint32,1.0,V99_series_auto_resend3_idx3
