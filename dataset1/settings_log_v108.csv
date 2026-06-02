@@ -1,0 +1,2 @@
+local_time,mode,sim_radius,op_radius,route_corridor,motion_corridor,lookahead
+2026-05-19 16:35:47,simple_radius_only,0.4,0.5,False,False,0.0
