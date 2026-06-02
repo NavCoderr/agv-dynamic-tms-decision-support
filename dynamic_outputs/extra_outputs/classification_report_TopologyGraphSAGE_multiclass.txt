@@ -1,0 +1,13 @@
+                precision    recall  f1-score   support
+
+ conflict_risk       0.23      0.93      0.37        29
+      deadlock       1.00      0.17      0.29        72
+ fallback_hold       0.37      0.41      0.39        95
+        normal       0.94      0.83      0.88       784
+ operator_stop       0.36      0.36      0.36        66
+        resume       0.15      1.00      0.26         8
+safe_node_hold       0.23      0.29      0.25        35
+
+      accuracy                           0.71      1089
+     macro avg       0.47      0.57      0.40      1089
+  weighted avg       0.81      0.71      0.73      1089

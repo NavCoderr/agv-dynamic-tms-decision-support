@@ -1,0 +1,9 @@
+state_label,0,1
+conflict_risk,91,0
+deadlock,13,143
+fallback_hold,270,0
+normal,2351,0
+operator_stop,203,0
+preentry_block,30,0
+resume,55,0
+safe_node_hold,123,0

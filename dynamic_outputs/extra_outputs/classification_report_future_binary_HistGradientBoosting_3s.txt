@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+    non_risk       0.86      0.96      0.91       789
+ risk_action       0.85      0.59      0.70       297
+
+    accuracy                           0.86      1086
+   macro avg       0.86      0.78      0.80      1086
+weighted avg       0.86      0.86      0.85      1086
