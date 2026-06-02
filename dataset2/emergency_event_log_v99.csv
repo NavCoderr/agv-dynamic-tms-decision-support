@@ -1,0 +1,9 @@
+local_time,action,reason,sim_risk,operator_risk,snap_node,op_live_on_m,op_live_off_m,op_route_on_m,op_route_off_m,op_lookahead_m,op_motion_on_m,op_motion_off_m,enable_op_route_lookahead,enable_op_motion_corridor,op_live_min_m,op_route_min_m,op_motion_min_m,op_risk_edge,movement_heading_deg,plc_heading_deg,heading_movement_diff_deg,reverse_motion_xy,sim_on_m,sim_off_m
+2026-05-19 16:11:34,emergency_brake,OP1 live close 0.42m (limit 0.50m),False,True,23,0.5,0.5,0.5,0.5,0.0,0.5,0.5,False,False,0.42036224812256356,0.43461484909057596,0.42036224812256356,23->20,90.43235315069808,358.44789135456085,91.98446179613723,False,0.4,0.4
+2026-05-19 16:11:45,emergency_clear_release_and_resume,operator/SIM clear,False,False,20,False,4,True
+2026-05-19 16:15:12,emergency_brake,OP2 live close 0.42m (limit 0.50m),False,True,19,0.5,0.5,0.5,0.5,0.0,0.5,0.5,False,False,0.4212352888255472,0.39151029586792,0.4212352888255472,19->22,271.3443661406314,1.6009132862091064,90.25654714557771,False,0.4,0.4
+2026-05-19 16:15:22,emergency_clear_release_and_resume,operator/SIM clear,False,False,22,False,6,True
+2026-05-19 16:15:44,emergency_brake,OP1 live close 0.30m (limit 0.50m),False,True,23,0.5,0.5,0.5,0.5,0.0,0.5,0.5,False,False,0.30223725535252777,1.5628245251584136,0.30223725535252777,23->24,271.8665328983875,1.615817904472351,89.74928500608485,False,0.4,0.4
+2026-05-19 16:15:54,emergency_clear_release_and_resume,operator/SIM clear,False,False,23,False,6,True
+2026-05-19 16:18:54,emergency_brake,OP1 live close 0.29m (limit 0.50m),False,True,23,0.5,0.5,0.5,0.5,0.0,0.5,0.5,False,False,0.2885573242747227,0.3106023788452148,0.2885573242747227,23->20,86.67402009195473,358.4149521589279,88.25906793302681,False,0.4,0.4
+2026-05-19 16:19:05,emergency_clear_release_and_resume,operator/SIM clear,False,False,20,False,4,True

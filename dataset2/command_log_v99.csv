@@ -1,0 +1,86 @@
+local_time,command,value,ok,block_readback,release_readback,label
+2026-05-19 16:09:58,BRAKE_OFF,,True,False,True,
+2026-05-19 16:10:01,SEND_DEST,6,True,True,True,6,0,-0.12124583125114441,V99_series_idx0,0-1-0,uint32,uint32
+2026-05-19 16:10:04,BRAKE_OFF,,True,False,True,
+2026-05-19 16:10:07,SEND_DEST,6,True,True,True,6,0,-0.09827292710542679,V99_series_auto_resend1_idx0,0-1-0,uint32,uint32
+2026-05-19 16:10:23,BRAKE_OFF,,True,False,True,
+2026-05-19 16:10:26,SEND_DEST,5,True,True,True,5,0,0.2739730477333069,V99_series_idx1,0-1-0,uint32,uint32
+2026-05-19 16:10:29,BRAKE_OFF,,True,False,True,
+2026-05-19 16:10:32,SEND_DEST,5,True,True,True,5,0,0.12975431978702545,V99_series_auto_resend1_idx1,0-1-0,uint32,uint32
+2026-05-19 16:10:45,BRAKE_OFF,,True,False,True,
+2026-05-19 16:10:48,SEND_DEST,4,True,True,True,4,0,-0.29822221398353577,V99_series_idx2,0-1-0,uint32,uint32
+2026-05-19 16:11:38,BRAKE_OFF,,True,False,True,
+2026-05-19 16:11:41,SEND_DEST,4,True,True,True,4,0,0.0,V141 instant resume original goal after operator clear,0-1-0,uint32,uint32
+2026-05-19 16:11:42,BRAKE_OFF,,True,False,True,
+2026-05-19 16:11:45,SEND_DEST,4,True,True,True,4,0,-0.29737135767936707,V141 instant resume second pulse after operator clear,0-1-0,uint32,uint32
+2026-05-19 16:12:21,BRAKE_OFF,,True,False,True,
+2026-05-19 16:12:24,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_idx3,0-1-0,uint32,uint32
+2026-05-19 16:12:27,BRAKE_OFF,,False,True,False,
+2026-05-19 16:12:30,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_auto_resend1_idx3,0-1-0,uint32,uint32
+2026-05-19 16:12:33,BRAKE_OFF,,False,True,False,
+2026-05-19 16:12:36,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_auto_resend2_idx3,0-1-0,uint32,uint32
+2026-05-19 16:12:39,BRAKE_OFF,,True,False,True,
+2026-05-19 16:12:42,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_auto_resend3_idx3,0-1-0,uint32,uint32
+2026-05-19 16:12:44,BRAKE_OFF,,True,False,True,
+2026-05-19 16:12:47,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_auto_resend4_idx3,0-1-0,uint32,uint32
+2026-05-19 16:12:47,BRAKE_OFF,,True,False,True,
+2026-05-19 16:12:50,BRAKE_OFF,,True,False,True,
+2026-05-19 16:12:50,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_resend_idx3,0-1-0,uint32,uint32
+2026-05-19 16:12:53,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_auto_resend5_idx3,0-1-0,uint32,uint32
+2026-05-19 16:12:55,BRAKE_OFF,,True,False,True,
+2026-05-19 16:12:58,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_auto_resend6_idx3,0-1-0,uint32,uint32
+2026-05-19 16:13:01,BRAKE_OFF,,True,False,True,
+2026-05-19 16:13:04,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_auto_resend7_idx3,0-1-0,uint32,uint32
+2026-05-19 16:13:07,BRAKE_OFF,,True,False,True,
+2026-05-19 16:13:09,BRAKE_OFF,,True,False,True,
+2026-05-19 16:13:10,SEND_DEST,3,True,True,True,3,0,0.12550006806850433,V99_series_auto_resend8_idx3,0-1-0,uint32,uint32
+2026-05-19 16:13:12,SEND_DEST,3,True,True,True,3,0,0.2960951030254364,V99_series_resend_idx3,0-1-0,uint32,uint32
+2026-05-19 16:13:29,BRAKE_OFF,,True,False,True,
+2026-05-19 16:13:32,SEND_DEST,2,True,True,True,2,0,0.0,V99_series_idx4,0-1-0,uint32,uint32
+2026-05-19 16:13:35,BRAKE_OFF,,True,False,True,
+2026-05-19 16:13:38,SEND_DEST,2,True,True,True,2,0,-0.2977967858314514,V99_series_auto_resend1_idx4,0-1-0,uint32,uint32
+2026-05-19 16:13:55,BRAKE_OFF,,True,False,True,
+2026-05-19 16:13:58,SEND_DEST,1,True,True,True,1,0,-0.09954921156167984,V99_series_idx5,0-1-0,uint32,uint32
+2026-05-19 16:14:02,BRAKE_OFF,,True,False,True,
+2026-05-19 16:14:05,SEND_DEST,1,True,True,True,1,0,0.12592549622058868,V99_series_auto_resend1_idx5,0-1-0,uint32,uint32
+2026-05-19 16:14:36,BRAKE_OFF,,True,False,True,
+2026-05-19 16:14:39,SEND_DEST,6,True,True,True,6,0,0.09954921156167984,V99_series_idx0,0-1-0,uint32,uint32
+2026-05-19 16:14:42,BRAKE_OFF,,True,False,True,
+2026-05-19 16:14:45,SEND_DEST,6,True,True,True,6,0,-0.2969459295272827,V99_series_auto_resend1_idx0,0-1-0,uint32,uint32
+2026-05-19 16:15:15,BRAKE_OFF,,True,False,True,
+2026-05-19 16:15:18,SEND_DEST,6,True,True,True,6,0,0.0,V141 instant resume original goal after operator clear,0-1-0,uint32,uint32
+2026-05-19 16:15:19,BRAKE_OFF,,True,False,True,
+2026-05-19 16:15:22,SEND_DEST,6,True,True,True,6,0,-0.29141542315483093,V141 instant resume second pulse after operator clear,0-1-0,uint32,uint32
+2026-05-19 16:15:47,BRAKE_OFF,,True,False,True,
+2026-05-19 16:15:50,SEND_DEST,6,True,True,True,6,0,0.0,V141 instant resume original goal after operator clear,0-1-0,uint32,uint32
+2026-05-19 16:15:51,BRAKE_OFF,,True,False,True,
+2026-05-19 16:15:54,SEND_DEST,6,True,True,True,6,0,-0.2650391757488251,V141 instant resume second pulse after operator clear,0-1-0,uint32,uint32
+2026-05-19 16:16:35,BRAKE_OFF,,True,False,True,
+2026-05-19 16:16:38,SEND_DEST,6,True,True,True,6,0,0.0,V99_series_resend_idx0,0-1-0,uint32,uint32
+2026-05-19 16:16:58,BRAKE_OFF,,True,False,True,
+2026-05-19 16:17:01,SEND_DEST,6,True,True,True,6,0,-0.10678141564130783,V99_series_resend_idx0,0-1-0,uint32,uint32
+2026-05-19 16:17:40,BRAKE_OFF,,True,False,True,
+2026-05-19 16:17:44,SEND_DEST,5,True,True,True,5,0,0.10635600239038467,V99_series_idx1,0-1-0,uint32,uint32
+2026-05-19 16:17:46,BRAKE_OFF,,True,False,True,
+2026-05-19 16:17:49,SEND_DEST,5,True,True,True,5,0,0.1106102243065834,V99_series_auto_resend1_idx1,0-1-0,uint32,uint32
+2026-05-19 16:18:04,BRAKE_OFF,,True,False,True,
+2026-05-19 16:18:07,SEND_DEST,4,True,True,True,4,0,-0.2909899950027466,V99_series_idx2,0-1-0,uint32,uint32
+2026-05-19 16:18:57,BRAKE_OFF,,True,False,True,
+2026-05-19 16:19:00,SEND_DEST,4,True,True,True,4,0,0.0,V141 instant resume original goal after operator clear,0-1-0,uint32,uint32
+2026-05-19 16:19:01,BRAKE_OFF,,True,False,True,
+2026-05-19 16:19:05,SEND_DEST,4,True,True,True,4,0,-0.2994984984397888,V141 instant resume second pulse after operator clear,0-1-0,uint32,uint32
+2026-05-19 16:20:00,BRAKE_OFF,,True,False,True,
+2026-05-19 16:20:03,SEND_DEST,4,True,True,True,4,0,0.0,V99_series_resend_idx2,0-1-0,uint32,uint32
+2026-05-19 16:20:42,BRAKE_OFF,,True,False,True,
+2026-05-19 16:20:46,SEND_DEST,4,True,True,True,4,0,0.0,V99_series_resend_idx2,0-1-0,uint32,uint32
+2026-05-19 16:21:59,BRAKE_OFF,,True,False,True,
+2026-05-19 16:22:02,SEND_DEST,4,True,True,True,4,0,0.0,V99_series_resend_idx2,0-1-0,uint32,uint32
+2026-05-19 16:22:09,BRAKE_OFF,,True,False,True,
+2026-05-19 16:22:12,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_idx3,0-1-0,uint32,uint32
+2026-05-19 16:22:15,BRAKE_OFF,,True,False,True,
+2026-05-19 16:22:18,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_auto_resend1_idx3,0-1-0,uint32,uint32
+2026-05-19 16:22:21,BRAKE_OFF,,True,False,True,
+2026-05-19 16:22:24,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_auto_resend2_idx3,0-1-0,uint32,uint32
+2026-05-19 16:22:26,BRAKE_OFF,,True,False,True,
+2026-05-19 16:22:29,SEND_DEST,3,True,True,True,3,0,0.0,V99_series_auto_resend3_idx3,0-1-0,uint32,uint32
+2026-05-19 16:22:32,BRAKE_OFF,,True,False,True,

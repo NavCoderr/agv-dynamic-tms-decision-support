@@ -1,0 +1,20 @@
+local_time,event,virtual_scanner_enable,source
+2026-05-19 16:09:50,set_enable,1,dashboard
+2026-05-19 16:12:21,deadlock_triggered,SIM1,0.030454200010827458,0.3,stop_real_and_hold_sim
+2026-05-19 16:12:42,set_enable,0,dashboard
+2026-05-19 16:12:43,set_enable,0,dashboard
+2026-05-19 16:13:02,manual_release,release_real_and_sim
+2026-05-19 16:13:04,set_enable,0,dashboard
+2026-05-19 16:13:44,set_enable,1,dashboard
+2026-05-19 16:15:58,deadlock_triggered,SIM1,0.10715498192387621,0.3,stop_real_and_hold_sim
+2026-05-19 16:16:31,set_enable,0,dashboard
+2026-05-19 16:16:32,manual_release,release_real_and_sim
+2026-05-19 16:16:51,set_enable,0,dashboard
+2026-05-19 16:16:52,manual_release,release_real_and_sim
+2026-05-19 16:20:30,manual_release,release_real_and_sim
+2026-05-19 16:20:31,set_enable,0,dashboard
+2026-05-19 16:20:32,set_enable,0,dashboard
+2026-05-19 16:20:32,manual_release,release_real_and_sim
+2026-05-19 16:20:38,manual_release,release_real_and_sim
+2026-05-19 16:21:53,manual_release,release_real_and_sim
+2026-05-19 16:21:54,set_enable,0,dashboard

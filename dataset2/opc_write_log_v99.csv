@@ -1,0 +1,1075 @@
+local_time,method,nodeid,dtype,value,ok,verify_ok,readback
+2026-05-19 16:09:58,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:09:58,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:09:59,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:09:59,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,6,True,True,6
+2026-05-19 16:09:59,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:10:00,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:10:04,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:10:04,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:10:04,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:10:05,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,6,True,True,6
+2026-05-19 16:10:05,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:10:06,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:10:22,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:10:23,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:10:23,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:10:23,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,5,True,True,5
+2026-05-19 16:10:24,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:10:25,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:10:29,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:10:29,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:10:29,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:10:30,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,5,True,True,5
+2026-05-19 16:10:30,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:10:31,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:10:45,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:10:45,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:10:45,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:10:46,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,4,True,True,4
+2026-05-19 16:10:46,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:10:47,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:11:32,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:11:32,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:11:32,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:11:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:11:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:11:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:11:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:11:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:11:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:11:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:11:33,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:11:33,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:11:33,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:11:33,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:11:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:11:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:11:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:11:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:11:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:11:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:11:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:11:34,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:11:34,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:11:36,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True
+2026-05-19 16:11:36,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True
+2026-05-19 16:11:36,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:11:36,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:11:36,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:11:36,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:11:37,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:11:37,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:11:37,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,False,True
+2026-05-19 16:11:37,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:11:37,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:11:37,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:11:37,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:11:38,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:11:38,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,4,True,True,4
+2026-05-19 16:11:39,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:11:40,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:11:41,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:11:41,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:11:42,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:11:42,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,4,True,True,4
+2026-05-19 16:11:43,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:11:44,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:20,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:12:21,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:12:21,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:21,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:21,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:21,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:21,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:22,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:12:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:22,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:12:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:22,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:22,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:22,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:22,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:23,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:23,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:23,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:23,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:23,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:23,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:23,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:23,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:23,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:23,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:25,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:25,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:25,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:25,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:25,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:25,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:25,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:26,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:12:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:27,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:27,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:27,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,False,False
+2026-05-19 16:12:27,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:27,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:27,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:27,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:27,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:27,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:27,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:27,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:27,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:27,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:27,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:12:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:28,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:28,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:28,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:12:28,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:28,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:29,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:29,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:29,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:29,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:29,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:29,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:31,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:31,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:31,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:31,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:31,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:32,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:32,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:33,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,False,False
+2026-05-19 16:12:33,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:33,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:33,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:33,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:33,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:33,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:12:33,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:34,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:34,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:35,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:35,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:36,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:36,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:36,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:36,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:36,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:36,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:36,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:36,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:36,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:36,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:36,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:37,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:37,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:37,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:37,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:37,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:37,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:37,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:37,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:37,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:37,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:37,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:37,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:38,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:38,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:38,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:38,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:38,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:38,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:38,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:12:38,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:12:39,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:39,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:12:39,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:12:40,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:40,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:40,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:40,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:40,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:40,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:40,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:40,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:40,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:40,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:40,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:40,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:41,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:41,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:42,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:42,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:42,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:42,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:42,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:12:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:12:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:12:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:12:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:12:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:12:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:12:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:12:43,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:12:43,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:12:44,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:12:44,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:12:45,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:45,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:12:45,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:12:46,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:47,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:12:47,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:12:48,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:48,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:12:48,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:12:49,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:12:50,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:50,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:12:50,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:50,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:12:51,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:12:52,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:55,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:12:55,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:12:56,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:12:56,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:12:56,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:12:58,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:13:01,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:13:01,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:13:01,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:13:02,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:13:02,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:13:02,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True
+2026-05-19 16:13:02,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True
+2026-05-19 16:13:02,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:13:02,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:13:02,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:13:03,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:13:03,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:13:03,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:13:03,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,False,True
+2026-05-19 16:13:03,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:13:03,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:13:03,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:13:06,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:13:06,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:13:07,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:13:07,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:13:08,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:13:08,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:13:09,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:13:09,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:13:09,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:13:09,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:13:10,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:13:11,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:13:28,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:13:29,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:13:29,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:13:29,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,2,True,True,2
+2026-05-19 16:13:30,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:13:31,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:13:34,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:13:34,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:13:35,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:13:35,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,2,True,True,2
+2026-05-19 16:13:36,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:13:37,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:13:54,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:13:55,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:13:55,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:13:56,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,1,True,True,1
+2026-05-19 16:13:56,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:13:57,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:14:01,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:14:01,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:14:02,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:14:02,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,1,True,True,1
+2026-05-19 16:14:02,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:14:04,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:14:36,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:14:36,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:14:36,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:14:37,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,6,True,True,6
+2026-05-19 16:14:37,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:14:38,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:14:42,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:14:42,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:14:43,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:14:43,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,6,True,True,6
+2026-05-19 16:14:43,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:14:44,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:15:10,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:15:10,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:15:10,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:10,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:15:11,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:15:12,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:15:12,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:15:12,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:15:12,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:15:13,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True
+2026-05-19 16:15:14,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True
+2026-05-19 16:15:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:15:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:15:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:15:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:15:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:15:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:15:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,False,True
+2026-05-19 16:15:14,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:14,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:14,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:15:15,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:15:15,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:15:16,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,6,True,True,6
+2026-05-19 16:15:16,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:15:17,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:15:18,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:15:19,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:15:19,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:15:19,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,6,True,True,6
+2026-05-19 16:15:20,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:15:21,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:15:42,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:15:42,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:15:42,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:15:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:15:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:15:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:15:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:15:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:15:42,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:15:43,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:15:43,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:15:43,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:43,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:15:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:15:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:15:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:15:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:15:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:15:43,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:15:44,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:15:44,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:15:46,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True
+2026-05-19 16:15:46,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True
+2026-05-19 16:15:46,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:15:46,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:15:46,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:15:46,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:15:46,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:15:46,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:15:46,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,False,True
+2026-05-19 16:15:46,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:46,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:47,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:15:47,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:15:48,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:15:48,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,6,True,True,6
+2026-05-19 16:15:48,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:15:49,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:15:51,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:15:51,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:15:51,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:15:52,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,6,True,True,6
+2026-05-19 16:15:52,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:15:53,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:15:58,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:15:58,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:15:58,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:58,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:15:58,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:15:58,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:15:58,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:15:58,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:15:58,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:15:59,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:15:59,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:15:59,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:15:59,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:59,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:15:59,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:15:59,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:15:59,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:15:59,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:15:59,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:15:59,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:00,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:01,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:01,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:01,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:01,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:01,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:01,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:01,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:01,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:01,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:01,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:01,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:01,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:03,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:03,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:04,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:04,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:04,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:04,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:04,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:04,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:04,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:04,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:04,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:04,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:04,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:04,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:05,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:05,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:05,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:05,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:05,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:05,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:05,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:05,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:05,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:07,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:07,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:07,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:07,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:07,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:07,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:07,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:07,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:08,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:09,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:09,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:09,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:09,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:09,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:09,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:09,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:09,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:09,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:09,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:09,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:09,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:10,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:10,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:10,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:10,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:10,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:10,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:10,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:10,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:10,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:10,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:10,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:10,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:12,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:12,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:12,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:12,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:12,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:12,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:13,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:14,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:15,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:16,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:17,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:18,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:19,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:19,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:19,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:19,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:19,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:19,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:19,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:19,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:19,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:19,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:19,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:19,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:20,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:21,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:21,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:21,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:21,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:21,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:21,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:21,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:21,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:21,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:22,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:23,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:23,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:23,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:23,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:23,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:23,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:23,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:24,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:24,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:24,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:24,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:24,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:24,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:24,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:24,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:24,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:25,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:26,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:27,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:27,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:27,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:27,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:27,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:27,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:27,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:27,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:27,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:27,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:27,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:28,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:29,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:29,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:29,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:29,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:29,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:29,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:30,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:31,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:31,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:31,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:31,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:31,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:32,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,False,True
+2026-05-19 16:16:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:33,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:33,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:16:33,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:16:33,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:34,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:16:35,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:16:35,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:16:35,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,6,True,True,6
+2026-05-19 16:16:36,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:16:37,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:16:52,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True
+2026-05-19 16:16:52,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True
+2026-05-19 16:16:52,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:16:52,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:16:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:16:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:16:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:16:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:16:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,False,True
+2026-05-19 16:16:53,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:53,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:16:57,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:16:57,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:16:58,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:16:58,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,6,True,True,6
+2026-05-19 16:16:59,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:17:00,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:17:40,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:17:40,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:17:41,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:17:41,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,5,True,True,5
+2026-05-19 16:17:41,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:17:43,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:17:46,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:17:46,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:17:46,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:17:47,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,5,True,True,5
+2026-05-19 16:17:47,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:17:48,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:18:04,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:18:04,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:18:05,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:18:05,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,4,True,True,4
+2026-05-19 16:18:05,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:18:06,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:18:52,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:18:52,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:18:52,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:18:52,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:18:52,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:18:52,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:18:52,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:18:52,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,True,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,False,True
+2026-05-19 16:18:53,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,True,True
+2026-05-19 16:18:56,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True
+2026-05-19 16:18:56,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True
+2026-05-19 16:18:56,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:18:56,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:18:56,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:18:56,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:18:56,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:18:56,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:18:56,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,False,True
+2026-05-19 16:18:56,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:18:57,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:18:57,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:18:57,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:18:58,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:18:58,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,4,True,True,4
+2026-05-19 16:18:58,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:18:59,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:19:01,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:19:01,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:19:02,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:19:02,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,4,True,True,4
+2026-05-19 16:19:03,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:19:04,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:19:59,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:20:00,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:20:00,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:20:00,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,4,True,True,4
+2026-05-19 16:20:01,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:20:02,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:20:30,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True
+2026-05-19 16:20:30,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True
+2026-05-19 16:20:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:20:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:20:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:20:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:20:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:20:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:20:31,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,False,True
+2026-05-19 16:20:31,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:20:31,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:20:33,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True
+2026-05-19 16:20:33,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True
+2026-05-19 16:20:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:20:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:20:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:20:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:20:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:20:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:20:33,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,False,True
+2026-05-19 16:20:33,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:20:33,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:20:38,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True
+2026-05-19 16:20:38,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True
+2026-05-19 16:20:38,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:20:38,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:20:38,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:20:38,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:20:38,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:20:39,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:20:39,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,False,True
+2026-05-19 16:20:39,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:20:39,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:20:42,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:20:42,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:20:43,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:20:43,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,4,True,True,4
+2026-05-19 16:20:43,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:20:45,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:21:53,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True
+2026-05-19 16:21:53,direct_minimal_safety,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True
+2026-05-19 16:21:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move forward,bool,False,True
+2026-05-19 16:21:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - move backward,bool,False,True
+2026-05-19 16:21:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate left,bool,False,True
+2026-05-19 16:21:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - rotate right,bool,False,True
+2026-05-19 16:21:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn left,bool,False,True
+2026-05-19 16:21:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - turn right,bool,False,True
+2026-05-19 16:21:53,direct_minimal_safety,ns=4;s=FN.6100.[MC] - Manual Control.Manual Control - enable,bool,False,True
+2026-05-19 16:21:53,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate manual mode,bool,False,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:21:53,direct_minimal_safety,ns=4;s=FN.6100.[GSC] - General Signals Control.Activate automatic mode,bool,True,False,"direct_minimal failed: set_attribute=""The node id refers to a node that does not exist in the server address space.""(BadNodeIdUnknown); raw_write=No known way to pack [WriteValue(NodeId:{self.NodeId}, AttributeId:{self.AttributeId}, IndexRange:{self.IndexRange}, Value:{self.Value})] of type WriteParameters to ua binary"
+2026-05-19 16:21:58,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:21:59,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:21:59,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:21:59,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,4,True,True,4
+2026-05-19 16:22:00,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:22:01,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:22:09,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:22:09,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:22:09,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:22:10,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:22:10,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:22:11,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:22:14,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:22:15,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:22:15,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:22:15,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:22:16,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:22:17,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:22:20,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:22:20,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:22:21,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:22:21,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:22:21,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:22:23,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:22:26,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:22:26,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:22:26,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:22:27,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:22:27,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:22:28,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:22:31,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:22:32,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:22:32,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:22:32,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:22:33,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
+2026-05-19 16:22:34,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:22:37,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - block,bool,False,True,True,False
+2026-05-19 16:22:37,direct_minimal,ns=4;s=FN.6100.[BC] BRAKES CONTROL.Brakes - release,bool,True,True,True,True
+2026-05-19 16:22:38,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,0,True,True,0
+2026-05-19 16:22:38,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Destination ID,uint32,3,True,True,3
+2026-05-19 16:22:38,direct_minimal,ns=4;s=FN.6100.[NNC] - Natural Navigation Command.3005 - Go to destination - Trigger,uint32,1,True,True,1
