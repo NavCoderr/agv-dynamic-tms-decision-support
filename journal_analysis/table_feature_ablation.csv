@@ -1,9 +1,0 @@
-task,model,feature_set,n_features,accuracy,macro_f1,n_train,n_test
-binary_risk,ExtraTrees,Live spatial only,10,0.852157943067034,0.8134609348817168,2190,1089
-binary_risk,ExtraTrees,Live + graph relations,12,0.8640955004591369,0.8272377244584699,2190,1089
-binary_risk,ExtraTrees,Live + trajectory prior,21,0.8650137741046832,0.8282196146602927,2190,1089
-binary_risk,ExtraTrees,Full event-free knowledge,24,0.8797061524334252,0.8452260706826873,2190,1089
-multiclass,ExtraTrees,Live spatial only,10,0.6841138659320477,0.3041561904345072,2160,1089
-multiclass,ExtraTrees,Live + graph relations,12,0.6767676767676768,0.3112269585793257,2160,1089
-multiclass,ExtraTrees,Live + trajectory prior,21,0.7180899908172635,0.3532820510840251,2160,1089
-multiclass,ExtraTrees,Full event-free knowledge,24,0.743801652892562,0.3836758084133249,2160,1089

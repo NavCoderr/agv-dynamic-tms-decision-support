@@ -1,7 +1,0 @@
-task,model,train_runs,test_run,accuracy,macro_f1,n_train,n_test
-binary_risk,ExtraTrees,dataset2+dataset3,dataset1,0.8891369047619048,0.8364144761294823,1935,1344
-multiclass,ExtraTrees,dataset2+dataset3,dataset1,0.8242009132420092,0.4750936312186325,1779,1314
-binary_risk,ExtraTrees,dataset1+dataset3,dataset2,0.859338061465721,0.8517832561631835,2433,846
-multiclass,ExtraTrees,dataset1+dataset3,dataset2,0.7411347517730497,0.4859338703503463,2403,846
-binary_risk,ExtraTrees,dataset1+dataset2,dataset3,0.8797061524334252,0.8452260706826873,2190,1089
-multiclass,ExtraTrees,dataset1+dataset2,dataset3,0.743801652892562,0.3836758084133249,2160,1089
