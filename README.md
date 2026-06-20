@@ -1,6 +1,6 @@
 # Runtime Traffic-Management Decision Support for Industrial AGVs
 
-This repository contains the code, runtime datasets, processed outputs, and analysis scripts for the manuscript:
+This repository contains the code, runtime datasets, processed outputs, and analysis scripts for the project:
 
 **Runtime Traffic-Management Decision Support for Industrial AGVs Using Learned Trajectory Priors and Hybrid Physical–Simulated Validation**
 
@@ -8,7 +8,7 @@ This repository contains the code, runtime datasets, processed outputs, and anal
 
 The project builds a 1 Hz runtime state representation for AGV traffic-management decision support. It combines physical AGV telemetry, software-simulated traffic trajectories, planned trajectory priors, graph-relation features, safe-node decisions, TMS actions, virtual-scanner events, urgent-control events, and operator-stop evidence.
 
-The main predictive task is binary risk/action recognition using event-free features. Fine-grained multiclass TMS-state recognition is reported as a diagnostic and exploratory task. The framework is intended as a supervisory decision-support layer and does not claim certified collision-free AGV control.
+The main prediction task is binary risk/action recognition using event-free features. Fine-grained multiclass TMS-state recognition is also included as a diagnostic and exploratory task. The framework is intended as a supervisory decision-support layer and does not claim certified collision-free AGV control.
 
 ## Repository Structure
 
@@ -16,7 +16,7 @@ The main predictive task is binary risk/action recognition using event-free feat
 dataset1/                 Runtime logs for dataset 1
 dataset2/                 Runtime logs for dataset 2
 dataset3/                 Runtime logs for dataset 3
-dynamic_outputs/          Generated processed data, results, figures, and validation outputs
+dynamic_outputs/          Processed data, results, figures, and validation outputs
 dynamic_tms.py            Main pipeline for dataset construction and model evaluation
 dynamic_analysis.py       Script for result table and figure preparation
 extra_validation.py       Bootstrap, feature importance, calibration, and extra validation
@@ -45,7 +45,7 @@ opc_write_log_v99.csv                         OPC UA write/action log
 settings_log_v108.csv                         Runtime settings log
 ```
 
-The synchronized and processed research-ready datasets are stored in `dynamic_outputs/data/`.
+The synchronized and processed datasets are stored in `dynamic_outputs/data/`.
 
 ## Reproducibility and Execution Steps
 
@@ -78,13 +78,13 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-### 4. Run the main runtime TMS pipeline
+### 4. Run the main pipeline
 
 ```bash
 python dynamic_tms.py
 ```
 
-This script constructs the synchronized 1 Hz runtime datasets, prepares event-aware and event-free feature tables, evaluates the main machine-learning models, and saves the processed outputs under `dynamic_outputs/`.
+This script constructs the synchronized 1 Hz runtime datasets, prepares event-aware and event-free feature tables, evaluates the main machine-learning models, and saves the outputs under `dynamic_outputs/`.
 
 Expected main outputs include:
 
@@ -102,13 +102,13 @@ dynamic_outputs/results/feature_group_ablation_v4.csv
 dynamic_outputs/results/runtime_latency_v4.csv
 ```
 
-### 5. Generate journal tables and figures
+### 5. Generate result tables and figures
 
 ```bash
 python dynamic_analysis.py
 ```
 
-This script prepares journal-ready result tables and figures from the generated outputs.
+This script prepares the result tables and figures from the generated outputs.
 
 Expected outputs include:
 
@@ -132,7 +132,7 @@ dynamic_outputs/journal_analysis/fig_leakage_audit.png
 python extra_validation.py
 ```
 
-This script prepares additional validation outputs used for robustness analysis, including bootstrap confidence intervals, feature importance, probability calibration, and event-free binary risk/action evaluation.
+This script prepares additional validation outputs, including bootstrap confidence intervals, feature importance, probability calibration, and event-free binary risk/action evaluation.
 
 Expected outputs include:
 
@@ -154,8 +154,8 @@ dynamic_outputs/data/                         Processed 1 Hz datasets and featur
 dynamic_outputs/results/                      Main model result tables
 dynamic_outputs/figures/                      Generated figures
 dynamic_outputs/extra_outputs/                Classification reports and audit outputs
-dynamic_outputs/journal_analysis/             Journal-ready tables and summaries
-dynamic_outputs/journal_extra_validation/     Extra validation outputs
+dynamic_outputs/journal_analysis/             Result tables and summaries
+dynamic_outputs/journal_extra_validation/     Additional validation outputs
 ```
 
 ## Main Evaluation Protocol
@@ -168,9 +168,9 @@ Secondary setting: Fine-grained multiclass TMS-state recognition
 Diagnostic setting: Event-aware recognition using direct event/intervention features
 ```
 
-The event-free setting removes direct TMS and safety-event indicators and uses runtime spatial state, graph-relation variables, trajectory-prior variables, and short-term motion trends. This setting is treated as the main predictive evaluation because it avoids over-claiming from direct event-log evidence.
+The event-free setting removes direct TMS and safety-event indicators. It uses runtime spatial state, graph-relation variables, trajectory-prior variables, and short-term motion trends. This setting is used as the main predictive evaluation because it avoids over-claiming from direct event-log evidence.
 
-## Key Reported Results
+## Key Results
 
 The main event-free binary risk/action model is ExtraTrees. In the independent run-wise test, it achieved:
 
@@ -193,26 +193,14 @@ The scripts use a fixed random seed where applicable:
 GLOBAL_SEED = 42
 ```
 
-The main pipeline is designed to reproduce the processed 1 Hz datasets, event-aware and event-free model tables, feature-group ablation, leave-one-run-out validation, threshold sensitivity, latency analysis, leakage audit, future-horizon prediction, future distance regression, bootstrap confidence intervals, feature importance, and calibration outputs.
+The main pipeline can reproduce the processed 1 Hz datasets, event-aware and event-free model tables, feature-group ablation, leave-one-run-out validation, threshold sensitivity, latency analysis, leakage audit, future-horizon prediction, future distance regression, bootstrap confidence intervals, feature importance, and calibration outputs.
 
-Because the repository already includes generated `dynamic_outputs/`, the user can either inspect the existing processed outputs directly or rerun the scripts to regenerate them.
+The repository already includes generated `dynamic_outputs/`, so the outputs can be inspected directly or regenerated by running the scripts.
 
 ## Software Dependencies
 
 The repository was prepared for Python 3.11. The exact Python package versions used for reproducibility are listed in `requirements.txt`.
 
-## Citation
-
-If you use this repository, please cite the associated manuscript:
-
-Naveen Sharma, Wojciech Klein, and Rafał Cupek, “Runtime Traffic-Management Decision Support for Industrial AGVs Using Learned Trajectory Priors and Hybrid Physical–Simulated Validation,” manuscript under review.
-
-## Archival Snapshot
-
-A stable archival snapshot of this repository will be deposited on Zenodo before journal submission. The Zenodo DOI will be added here after the snapshot is created.
-
-DOI: To be added.
-
 ## License
 
-This repository is provided for academic research and reproducibility purposes. Please cite the associated manuscript and repository if you use the data, code, or processed outputs.
+This repository is provided for academic research and reproducibility purposes. Please cite the associated work and repository if you use the data, code, or processed outputs.
