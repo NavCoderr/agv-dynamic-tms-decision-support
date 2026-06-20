@@ -201,6 +201,12 @@ The repository already includes generated `dynamic_outputs/`, so the outputs can
 
 The repository was prepared for Python 3.11. The exact Python package versions used for reproducibility are listed in `requirements.txt`.
 
+## Archival Snapshot
+
+A stable archival snapshot of this repository is available on Zenodo:
+
+https://doi.org/10.5281/zenodo.20773984
+
 ## License
 
 This repository is provided for academic research and reproducibility purposes. Please cite the associated work and repository if you use the data, code, or processed outputs.
