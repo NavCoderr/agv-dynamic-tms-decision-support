@@ -215,4 +215,4 @@ DOI: To be added.
 
 ## License
 
-This repository is provided for research and reproducibility purposes. Please cite the associated manuscript and repository if you use the data, code, or processed outputs.
+This repository is provided for academic research and reproducibility purposes. Please cite the associated manuscript and repository if you use the data, code, or processed outputs.
