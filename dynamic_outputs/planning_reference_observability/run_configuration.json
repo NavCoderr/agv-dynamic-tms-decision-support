@@ -1,0 +1,65 @@
+{
+  "random_seed": 42,
+  "n_estimators": 500,
+  "min_samples_leaf": 2,
+  "probability_threshold": 0.5,
+  "deviation_bands_m": [
+    0.25,
+    0.5,
+    1.0
+  ],
+  "prospective_link_horizon_s": 60,
+  "exposure_merge_gap_s": 1,
+  "supervisory_followup_horizon_s": 60,
+  "corrected_features": [
+    "real_x",
+    "real_y",
+    "real_speed",
+    "real_node",
+    "sim1_x",
+    "sim1_y",
+    "sim1_speed",
+    "real_sim_distance_m",
+    "same_physical_edge",
+    "planned_real_x",
+    "planned_real_y",
+    "planned_real_u",
+    "planned_real_v",
+    "planned_real_tau",
+    "planned_real_available",
+    "planned_to_sim_distance_m",
+    "planned_same_sim_edge",
+    "distance_delta_1s",
+    "distance_delta_3s",
+    "closing_speed_est",
+    "planned_distance_delta_1s"
+  ],
+  "planned_features_removed_in_comparator": [
+    "planned_real_available",
+    "planned_real_tau",
+    "planned_real_u",
+    "planned_real_v",
+    "planned_real_x",
+    "planned_real_y",
+    "planned_same_sim_edge",
+    "planned_to_sim_distance_m"
+  ],
+  "direct_event_features_excluded": [
+    "hard_stop_event",
+    "hard_stop_operator",
+    "hard_stop_scanner",
+    "operator_event",
+    "tms_conflict_count",
+    "tms_first_severity",
+    "tms_hold_s",
+    "tms_horizon_s",
+    "urgent_control_event",
+    "virtual_scanner_event"
+  ],
+  "direct_rule_features_excluded": [
+    "close_distance_flag",
+    "opposite_edge_flag",
+    "very_close_flag"
+  ],
+  "interpretation": "This is an observability audit. Planned-only exposure episodes are retrospective corridor-context candidates, not certified warnings."
+}

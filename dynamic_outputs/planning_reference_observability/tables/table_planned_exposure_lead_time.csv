@@ -1,0 +1,5 @@
+run_id,candidate_episodes,linked_to_later_current_same_corridor,median_lead_time_s,min_lead_time_s,max_lead_time_s,followed_by_supervisory_state
+dataset1,3,3,11.0,3,22,3
+dataset2,1,1,3.0,3,3,1
+dataset3,3,3,10.0,8,14,3
+combined,7,7,10.0,3,22,7

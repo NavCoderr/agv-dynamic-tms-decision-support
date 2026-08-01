@@ -1,0 +1,8 @@
+exposure_episode_id,run_id,planned_exposure_start_sec,planned_exposure_end_sec,planned_exposure_duration_s,linked_to_later_current_same_corridor,later_current_same_corridor_sec,planned_reference_lead_time_s,first_followup_supervisory_state,supervisory_state_offset_s,min_planned_to_sim_distance_m,min_current_real_sim_distance_m,mean_plan_real_deviation_m
+1,dataset1,203,205,3,1,214,11,fallback_hold,0,0.3404002908903956,1.9298764669752893,1.583690047978771
+2,dataset1,910,913,4,1,932,22,fallback_hold,1,0.2989084912592913,3.4978500800563284,2.5941508614947026
+3,dataset1,1128,1130,3,1,1131,3,fallback_hold,0,1.015296826800263,1.964523349358954,0.6164234633300821
+4,dataset2,227,229,3,1,230,3,fallback_hold,1,0.3404002908903956,0.5620277814638143,0.296332293531163
+5,dataset3,208,214,7,1,218,10,fallback_hold,1,0.2613882335722742,1.2287314628284451,2.435185144774099
+6,dataset3,582,586,5,1,596,14,fallback_hold,0,0.3081356615629127,1.2332171309917184,3.158358556655277
+7,dataset3,951,953,3,1,959,8,operator_stop,0,0.4091186091227555,1.7929964839208252,2.9180014334632465

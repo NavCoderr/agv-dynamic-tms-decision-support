@@ -1,0 +1,5 @@
+run_id,runtime_rows,runtime_duration_s,planned_state_rows,planned_coverage_percent,planned_position_rows,planned_edge_rows,planned_edge_transitions_observed,planned_same_sim_edge_rows
+dataset1,1344,1343,383,28.497023809523807,383,383,133,18
+dataset2,846,845,202,23.87706855791962,202,202,64,7
+dataset3,1089,1088,326,29.935720844811755,326,326,105,17
+combined,3279,3276,911,27.782860628240318,911,911,302,42
