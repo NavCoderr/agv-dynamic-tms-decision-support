@@ -1,0 +1,5 @@
+run_id,probability_threshold,prediction_min_persistence_s,merge_gap_s,runtime_hours,true_episode_count,predicted_episode_count,detected_true_episode_count,missed_true_episode_count,false_predicted_episode_count,episode_recall,episode_precision,false_alert_episodes_per_hour,median_prediction_onset_offset_s,mean_prediction_onset_offset_s
+dataset1,0.5,2,1,0.37333333333333335,30,18,16,14,1,0.5333333333333333,0.9444444444444444,2.6785714285714284,0.0,0.1875
+dataset2,0.5,2,1,0.235,8,8,8,0,1,1.0,0.875,4.25531914893617,4.0,-8.875
+dataset3,0.5,2,1,0.3025,20,11,12,8,1,0.6,0.9090909090909091,3.3057851239669422,0.0,0.4166666666666667
+combined,0.5,2,1,0.9108333333333334,58,37,36,22,3,0.6206896551724138,0.918918918918919,3.293687099725526,0.0,-1.75

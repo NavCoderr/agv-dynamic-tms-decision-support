@@ -1,0 +1,7 @@
+state_label,true_episodes,detected_episodes,median_duration_s,median_onset_offset_s,episode_recall
+conflict_risk,1,1,27.0,-11.0,1.0
+deadlock,4,4,84.0,3.0,1.0
+fallback_hold,18,16,13.0,-0.5,0.8888888888888888
+operator_stop,14,10,11.0,2.0,0.7142857142857143
+preentry_block,6,1,1.0,-1.0,0.16666666666666666
+safe_node_hold,15,4,5.0,1.0,0.26666666666666666

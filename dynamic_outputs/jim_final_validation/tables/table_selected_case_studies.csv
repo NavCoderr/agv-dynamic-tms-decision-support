@@ -1,0 +1,4 @@
+run_id,true_episode_id,state_label,true_start_sec,true_end_sec,true_duration_s,detected,matched_predicted_episode_id,overlap_s,prediction_onset_offset_s,priority
+dataset1,23,conflict_risk,1132,1158,27,1,13.0,27,-11.0,1
+dataset2,1,deadlock,185,296,112,1,1.0,108,4.0,3
+dataset1,7,operator_stop,503,556,54,1,7.0,21,21.0,6
